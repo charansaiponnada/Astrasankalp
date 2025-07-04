@@ -51,14 +51,17 @@ _Sankalp_ 🔭 – Unwavering Determination
 ## 📂 Repository Structure
 ```bash
 AstraSankalp/
-├── data/ # Chandrayaan TMC, DEM, Metadata
-├── preprocessing/ # CLAHE, denoising, filters
-├── boulder_detection/ # Blob filtering + CNN/YOLO
+├── data/
+│   ├── raw/
+│   ├── dem/
+│   └── metadata/
+├── preprocessing/
+├── boulder_detection/
 ├── landslide_segmentation/
 ├── origin_detection/
-├── visualization/ # Dashboards and overlays
-├── evaluation/ # IoU, Precision, Recall
-└── app/ # Final Streamlit/Flask app
+├── visualization/
+├── evaluation/
+└── app/ (for UI)
 ```
 
 
