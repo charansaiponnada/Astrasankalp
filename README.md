@@ -73,7 +73,7 @@ AstraSankalp/
 |----------------------|-------------------------------|
 | Charan Sai Ponnada   |                               |
 | Neelima vana         |                               |
-| Aashvi Mourya        |                               |
+| Aashvi Maurya        |                               |
 | Gopal Kotha          |                               |
 > Driven by the spirit of discovery and the determination to make real-world impact in space-tech, AstraSankalp is more than a team—it's a movement.
 
