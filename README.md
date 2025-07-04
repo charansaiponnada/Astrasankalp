@@ -7,7 +7,7 @@ _Sankalp_ 🔭 – Unwavering Determination
 
 ---
 
-## 🛰️ Project: Lunar Terrain Hazard Detection  
+## 🛰️ Project: LUNAR HAZARD DETECTION 
 **Hackathon:** ISRO Bharatiya Antariksh Hackathon 2025  
 **Problem Statement:** PS11 – Novel Method to Detect Landslides & Boulders on the Moon
 
