@@ -49,7 +49,7 @@ _Sankalp_ 🔭 – Unwavering Determination
 ---
 
 ## 📂 Repository Structure
-
+```bash
 AstraSankalp/
 ├── data/ # Chandrayaan TMC, DEM, Metadata
 ├── preprocessing/ # CLAHE, denoising, filters
@@ -59,7 +59,7 @@ AstraSankalp/
 ├── visualization/ # Dashboards and overlays
 ├── evaluation/ # IoU, Precision, Recall
 └── app/ # Final Streamlit/Flask app
-
+```
 
 
 ---
